@@ -7,3 +7,4 @@ CREATE TABLE "songs" (
   "track" varchar(120) not null,
   "published" date
 );
+
